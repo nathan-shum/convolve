@@ -1,1 +1,1 @@
-C script utilizing Intel Intrinsics SIMD instructions, OpenMP for multithreading, and OpenMPI for multi-processing to apply convolutions for video processing to blur, sharpen, or apply other effects to videos. Download and check it out!
+By Nathan Shum
